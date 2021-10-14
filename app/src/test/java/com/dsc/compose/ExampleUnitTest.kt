@@ -1,4 +1,4 @@
-package com.moose.pets
+package com.dsc.compose
 
 import org.junit.Test
 

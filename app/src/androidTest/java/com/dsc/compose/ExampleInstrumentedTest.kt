@@ -1,4 +1,4 @@
-package com.moose.pets
+package com.dsc.compose
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
